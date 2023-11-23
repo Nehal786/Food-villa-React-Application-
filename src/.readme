@@ -1,0 +1,58 @@
+
+// const root = document.getElementById('root')
+// const p = document.createElement('p')         //FIRST PATH( 1ST METHOD)
+// p.innerText = "Hello From Nehal Part 2!"
+
+// root.appendChild(p)
+
+
+
+
+//+++++++++++++++++++++++++++++++++++  NOTES   +++++++++++++++++++++++++++++++++++++
+
+
+// const div = React.createElement('div', {className:"text"}, "Hello from Nehal React!!")
+// const root = ReactDOM.createRoot(document.getElementById('root'))
+
+//  const heading = React.createElement(
+//     "h1",
+//     {
+    
+//         id : 'title',
+//         key:"h1"   // <h1 id:"title">"heading 1"</h1>  line 14 to 21 is entirely same as this line
+//     },
+//     "Heading 1"
+//  );
+
+// // React.createElement --> Object --> Now this object convert itself into HTML(DOM)
+
+
+//  const heading2 = React.createElement(
+//     "h2",
+//     {
+    
+//         id : 'title',
+//         key:"h2"
+//     },
+//     "Heading 2"
+//  );
+
+//  const container = React.createElement(
+//     "div",
+//     {
+    
+//         id : 'container',
+//         key:"h3"
+//     },
+//     [heading,heading2]
+//  );
+
+//  const heading = (
+//     //{ this is called as react element}
+//     <h1 id="title" key="h2">   
+//     Hi Nehal
+//     </h1>
+// );
+
+
+
